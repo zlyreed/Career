@@ -1,4 +1,21 @@
 # Business Plan
+## Comparison of Nonprofit, For-Profit, and Hybrid (Social Enterprise / B Corp) Models
+
+| Feature / Factor              | **Nonprofit**                                  | **For-Profit**                                  | **Hybrid (Social Enterprise / B Corp)**                                  |
+|------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------|
+| **Primary Purpose**          | Mission-focused (public good)                   | Profit generation                               | Dual mission: profit + social/environmental impact                       |
+| **Profit Distribution**      | Reinvested in mission                           | Distributed to owners/shareholders              | Profits allowed, often reinvested to further mission                     |
+| **Ownership**                | No personal ownership                           | Privately owned (individuals, partners, shareholders) | Privately owned with mission in governance                              |
+| **Tax Status**               | Tax-exempt (e.g., 501(c)(3))                    | Fully taxable                                   | Taxable; may qualify for some incentives                                 |
+| **Access to Grants**         | Broad access (government, foundations)          | Limited or none                                 | Some access (impact investors, mission-aligned funders)                 |
+| **Capital Investment**       | Limited to donations and program-related investments | Broad (equity, loans, venture capital)       | Moderate (impact investors, social impact bonds, mission-aligned capital) |
+| **Public Perception**        | High trust; mission-aligned                     | May be viewed as profit-driven                  | Growing trust as a "purpose-driven business"                            |
+| **Governance Requirements**  | Board of directors, annual filings, strict oversight | Less regulated (unless publicly traded)     | Must meet accountability and transparency standards (e.g., B Lab)        |
+| **Legal Structures (U.S.)**  | 501(c)(3), 501(c)(6), foundation, association    | LLC, S-Corp, C-Corp                            | Benefit Corporation, L3C, Certified B Corp                              |
+| **Flexibility in Activities**| Restricted to mission-aligned work              | Very flexible                                   | Flexible with mission legally or voluntarily embedded                   |
+
+
+
 ## For-profit firms
 ### Business Entity Comparison: LLC vs. C-Corp vs. S-Corp vs. Sole Proprietor
 
