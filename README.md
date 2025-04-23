@@ -14,6 +14,19 @@
 | **Legal Structures (U.S.)**  | 501(c)(3), 501(c)(6), foundation, association    | LLC, S-Corp, C-Corp                            | Benefit Corporation, L3C, Certified B Corp                              |
 | **Flexibility in Activities**| Restricted to mission-aligned work              | Very flexible                                   | Flexible with mission legally or voluntarily embedded                   |
 
+## Hybrid Model
+### 🧾 Comparison Table: LLC vs. C-Corp vs. Benefit Corporation
+
+| Feature                         | **LLC**                                | **C Corporation**                       | **Benefit Corporation**                           |
+|----------------------------------|----------------------------------------|------------------------------------------|----------------------------------------------------|
+| **Liability Protection**         | ✅ Yes                                  | ✅ Yes                                    | ✅ Yes                                              |
+| **Mission Lock / Public Benefit**| ❌ No legal lock                        | ❌ No legal lock                         | ✅ Required by law (must consider stakeholders)     |
+| **Taxation**                     | Pass-through by default                | Double taxation (corp + dividends)       | Can elect pass-through or C-Corp taxation          |
+| **Profit Distribution**          | Flexible                               | Flexible                                 | Flexible                                            |
+| **Access to Grants / PRIs**      | ❌ Less likely unless paired with nonprofit | ❌ Similar to LLC                    | ✅ More likely if focused on public benefit         |
+| **Ease of Setup & Admin**        | ✅ Very easy                            | ❌ More complex (board, bylaws, etc.)    | ⚠️ Medium complexity (requires annual report)       |
+| **Reputation for Impact Work**   | ⚠️ May need extra marketing             | ❌ Viewed as purely for-profit            | ✅ Signals dual mission clearly                     |
+| **Founders’ Control**            | ✅ High                                 | ⚠️ Less if external investors involved    | ✅ Can retain control (especially if closely held)  |
 
 
 ## For-profit firms
