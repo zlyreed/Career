@@ -50,3 +50,14 @@
 - Obtain **D&O liability insurance**
 - Set up website, branding, and communication strategy
 - Prepare MOU or fiscal sponsorship agreement with your LLC (if needed)
+
+
+## 🎯 Key Goals of the SITE Foundation
+
+1. **Reduce injuries and health risks** in workplaces and communities through evidence-based intervention strategies.  
+2. **Evaluate and validate** the effectiveness of safety and health products and practices using rigorous methods.  
+3. **Promote equitable access** to protective technologies and interventions for underserved or high-risk populations.  
+4. **Advance the design and adoption** of innovative tools and solutions that improve safety, health, and well-being.  
+5. **Support knowledge translation** by sharing research findings in accessible, actionable formats for real-world use.  
+6. **Foster multidisciplinary collaboration** across academia, industry, and public health to strengthen intervention impact.
+
