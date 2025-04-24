@@ -45,3 +45,13 @@
 
 ![Hybrid Model](pic/HybridModel.png)
 
+### 🧩 Tentative Structure: Roles, Titles, and Functions
+
+| Person | Title                                        | Core Functions                                                                 | Entity     |
+|--------|----------------------------------------------|---------------------------------------------------------------------------------|------------|
+| **A**  | Founder & Chief Development Officer          | - Lead fundraising (grants, donors, partnerships)  <br> - Build external collaborations  <br> - Oversee nonprofit mission and strategy  <br> - Support grant proposal writing and reporting | Nonprofit  |
+| **B**  | Co-founder & Chief Technology Officer         | - Design and oversee testing protocols and lab setup  <br> - Lead technical documentation and methods  <br> - Manage tools, equipment, and workflow  <br> - Guide data interpretation and product improvement | LLC        |
+| **C**  | Co-founder & Chief Scientific Officer         | - Direct research design and scientific rigor  <br> - Ensure IRB compliance and research ethics  <br> - Lead publications and report authorship  <br> - Oversee day-to-day operations of the LLC  <br> - Support technical client work | LLC        |
+
+
+
