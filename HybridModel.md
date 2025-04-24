@@ -23,3 +23,24 @@
 | **Outreach / education**       | ⚠️ Possible but limited                     | ✅ Primary responsibility                         |
 | **Public benefit research**    | ⚠️ Sometimes funded via contracts           | ✅ Eligible for NIOSH, CDC, foundation funding     |
 | **Brand promotion / impact**   | ✅ Data-backed results for marketing        | ✅ Can publish white papers, host public forums    |
+
+### ✅ Benefits of the Dual-Structure Model
+
+| Benefit                              | Explanation                                                                 |
+|--------------------------------------|-----------------------------------------------------------------------------|
+| **Funder access**                    | Foundations can fund the nonprofit side                                     |
+| **Revenue flexibility**              | LLC can generate profit, sell services, pay staff competitively             |
+| **Clear mission alignment**          | Nonprofit can pursue outreach/advocacy without tax restrictions             |
+| **Tax-exempt donations**             | Nonprofit can receive charitable gifts (501(c)(3))                          |
+| **Shared mission, separate risks**   | Limits liability and compliance burdens by entity type                      |
+
+### ⚠️ Considerations & Challenges
+
+| Issue                              | Notes                                                                      |
+|------------------------------------|----------------------------------------------------------------------------|
+| **Governance**                     | Nonprofit must have its own independent board (not just LLC owners)        |
+| **Avoiding conflicts of interest** | Contracts between entities must be fair-market value, clearly documented   |
+| **Compliance**                     | Maintain clear financial separation, avoid private benefit issues          |
+| **Complexity**                     | Two sets of filings, accounting systems, legal oversight                   |
+
+
