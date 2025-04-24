@@ -43,4 +43,5 @@
 | **Compliance**                     | Maintain clear financial separation, avoid private benefit issues          |
 | **Complexity**                     | Two sets of filings, accounting systems, legal oversight                   |
 
+![Hybrid Model](pic/HybridModel.png)
 
